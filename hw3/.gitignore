@@ -1,2 +1,6 @@
 # ignore all files in /food101 folder
 food101/*
+
+# ignore all files ending in .tgz
+
+*.tgz
